@@ -1,0 +1,11 @@
+/* Background Filter */
+
+linear-gradient(to top,rgba(0,0,0,1),rgba(0,0,0,.9),
+  rgba(0,0,0,.4),rgba(0,0,0,0),rgba(0,0,0,0),rgba(0,0,0,0),
+  rgba(0,0,0,0));
+
+
+/* Description */
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
